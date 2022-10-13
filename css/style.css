@@ -1,0 +1,73 @@
+body {
+    font: 20px, arial, serif;
+}
+
+.navbar {
+    font-size: 20px;
+    font-weight: normal;
+    background-color: rgb(239, 239, 239);
+}
+
+h2 {
+    margin-bottom: 30px;
+}
+
+.imgShadow {
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.188);
+}
+
+.margin {
+    padding: 30px 0;
+}
+
+.quem-somos {
+    background-color: #076FEB;
+    color: white;
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.226);
+}
+
+#quemSomosTexto {
+    margin-bottom: 15px;
+}
+
+#quemSomosP {
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.parceiros {
+    background-color: #12DADE;
+    color: white;
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.226);
+}
+
+.servicos {
+    background-color: #07EB6E;
+    color: rgb(33, 33, 33);
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.226);
+}
+
+.imgParceiros:hover{
+    width: 260px;
+}
+
+.descricao {
+    color: black;
+    text-align: justify;
+    font-size: 18px;
+    font-weight: 500px;
+}
+
+#textoEspacamento {
+    margin-top: 20px;
+}
+
+#textoEspacamento2 {
+    margin-top: 23px;
+}
+
+footer {
+    color: black;
+    background-color: rgb(239, 239, 239);
+}
+
